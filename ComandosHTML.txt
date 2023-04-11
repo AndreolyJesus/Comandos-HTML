@@ -1,0 +1,31 @@
+<html>: Indica o início do documento HTML.
+
+<head>: Contém informações sobre o documento, como título, metadados, scripts e estilos.
+
+<title>: Define o título do documento.
+
+<body>: Contém o conteúdo da página, incluindo texto, imagens, links, formulários e outros elementos.
+
+<h1> a <h6>: São usados para criar títulos ou cabeçalhos em diferentes níveis de hierarquia.
+
+<p>: É usado para criar um parágrafo.
+
+<a>: É usado para criar um link para outra página ou para um arquivo dentro da mesma página.
+
+<img>: É usado para adicionar uma imagem à página.
+
+<ul> e <ol>: São usados para criar listas não ordenadas e ordenadas, respectivamente.
+
+<li>: É usado para criar cada item da lista.
+
+<table>: É usado para criar uma tabela.
+
+<tr>: Define uma linha na tabela.
+
+<td>: Define uma célula da tabela.
+
+<form>: É usado para criar um formulário de entrada de dados.
+
+<input>: É usado para criar campos de entrada de dados, como campos de texto, botões de rádio e caixas de seleção.
+
+<button>: É usado para criar um botão na página.
